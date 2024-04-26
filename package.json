@@ -1,0 +1,15 @@
+{
+    "name": "electron-base-material",
+    "version": "1.0.0",
+    "description": "base code for a material design electron app",
+    "main": "background.js",
+    "author": "Jordan Moore",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^28.2.0"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {}
+}
